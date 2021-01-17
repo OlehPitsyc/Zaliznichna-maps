@@ -1,1 +1,3 @@
-dfgvbhjnkmcvbhnm,
+public method
+
+getStereet(Залізнична 25)
